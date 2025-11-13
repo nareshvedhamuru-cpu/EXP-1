@@ -53,7 +53,7 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
- 
+ $$mathrm i_{30\Omega}=I_{50\Omega}+I_{100\Omega}$$
 
 
 b.  KCL:
