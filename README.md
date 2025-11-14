@@ -105,7 +105,7 @@ $$I_{100\Omega}=\frac{V}{50}=\frac{52.63}{100}=0.53A$$
 Tabulation:
 
 a.   KVL:
- 
+ |KVL|Source(V)|$$V_{30\Omega}|$$
 
 
 b.  KCL:
