@@ -48,6 +48,7 @@ a.   KVL:
 
 <img width="657" height="442" alt="Screenshot 2025-01-28 161546" src="https://github.com/user-attachments/assets/4745a9cb-1119-436f-aaed-0c346ba52288" />
 
+<img width="525" height="503" alt="malli" src="https://github.com/user-attachments/assets/a66c38dd-87c7-468f-b86d-adba724fd9af" />
 
 
 b.  KCL:
